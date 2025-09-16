@@ -15,7 +15,8 @@ I’m using this repo to track progress, experiment with approaches, and build a
 - Organized by topic as the repo grows.  
 - Uses **VS Code tasks** for compilation & execution. 
 
-📂 Project Structure
+## 📂 Project Structure
+
 The repository is organized to maintain clarity as it grows. The core logic is powered by a custom VS Code task runner for a seamless coding experience.
 
 .
@@ -25,11 +26,11 @@ The repository is organized to maintain clarity as it grows. The core logic is p
 │   └── problem.cpp
 ├── input.txt           # For test case input
 └── output.txt          # Stores program output
-Source Codes: All implementations are in C++.
 
-Organization: Problems are sorted into folders based on DSA topics.
 
-Automation: Uses VS Code tasks for a one-command compile & run workflow.
+-   **Source Codes:** All implementations are in C++.
+-   **Organization:** Problems are sorted into folders based on DSA topics.
+-   **Automation:** Uses **VS Code tasks** for a one-command compile & run workflow.
 
 ## ⚙️ Setup & Run
 
