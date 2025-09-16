@@ -22,11 +22,11 @@ The repository is organized to maintain clarity as it grows. The core logic is p
 ```text
 .
 ├── .vscode/
-│   └── tasks.json
-├── topic_name/
-│   └── problem.cpp
-├── input.txt
-└── output.txt
+│   └── tasks.json           # Pre-configured task for compilation & execution
+├── topic_name/              # Problems organized by topic (e.g., arrays, graphs)
+│   └── problem.cpp         
+├── input.txt                # For test case input
+└── output.txt               # Stores program output
 ```
 
 -   **Source Codes:** All implementations are in C++.
