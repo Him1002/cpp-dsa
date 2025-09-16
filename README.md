@@ -2,15 +2,14 @@
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B17-blue)
 ![Editor](https://img.shields.io/badge/editor-VS%20Code-blueviolet)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)  
-![License](https://img.shields.io/badge/license-MIT-green)      
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)     
 
 This repository contains my **Data Structures and Algorithms (DSA)** practice problems implemented in **C++**.  
 I’m using this repo to track progress, experiment with approaches, and build a strong foundation in problem-solving.  
 
 ---
 
-## 📂 Project Structure
+## 📂 Repo Structure
 
 The repository is organized to maintain clarity as it grows. The core logic is powered by a custom VS Code task runner for a seamless coding experience.
 
