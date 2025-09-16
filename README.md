@@ -1,7 +1,9 @@
 #  C++ DSA Practice 
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B17-blue)
-![Editor](https://img.shields.io/badge/editor-VS%20Code-blueviolet)    
+![Editor](https://img.shields.io/badge/editor-VS%20Code-blueviolet)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)  
+![License](https://img.shields.io/badge/license-MIT-green)      
 
 This repository contains my **Data Structures and Algorithms (DSA)** practice problems implemented in **C++**.  
 I’m using this repo to track progress, experiment with approaches, and build a strong foundation in problem-solving.  
@@ -11,7 +13,23 @@ I’m using this repo to track progress, experiment with approaches, and build a
 ## 📂 Project Structure
 - Source codes are written in **C++**.  
 - Organized by topic as the repo grows.  
-- Uses **VS Code tasks** for compilation & execution.  
+- Uses **VS Code tasks** for compilation & execution. 
+
+📂 Project Structure
+The repository is organized to maintain clarity as it grows. The core logic is powered by a custom VS Code task runner for a seamless coding experience.
+
+.
+├── .vscode/
+│   └── tasks.json      # Pre-configured task for compilation & execution
+├── topic_name/         # Problems organized by topic (e.g., arrays, graphs)
+│   └── problem.cpp
+├── input.txt           # For test case input
+└── output.txt          # Stores program output
+Source Codes: All implementations are in C++.
+
+Organization: Problems are sorted into folders based on DSA topics.
+
+Automation: Uses VS Code tasks for a one-command compile & run workflow.
 
 ## ⚙️ Setup & Run
 
