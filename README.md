@@ -11,11 +11,6 @@ I’m using this repo to track progress, experiment with approaches, and build a
 ---
 
 ## 📂 Project Structure
-- Source codes are written in **C++**.  
-- Organized by topic as the repo grows.  
-- Uses **VS Code tasks** for compilation & execution. 
-
-## 📂 Project Structure
 
 The repository is organized to maintain clarity as it grows. The core logic is powered by a custom VS Code task runner for a seamless coding experience.
 
