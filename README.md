@@ -19,14 +19,15 @@ I’m using this repo to track progress, experiment with approaches, and build a
 
 The repository is organized to maintain clarity as it grows. The core logic is powered by a custom VS Code task runner for a seamless coding experience.
 
+```text
 .
 ├── .vscode/
-│   └── tasks.json      # Pre-configured task for compilation & execution
-├── topic_name/         # Problems organized by topic (e.g., arrays, graphs)
+│   └── tasks.json
+├── topic_name/
 │   └── problem.cpp
-├── input.txt           # For test case input
-└── output.txt          # Stores program output
-
+├── input.txt
+└── output.txt
+```
 
 -   **Source Codes:** All implementations are in C++.
 -   **Organization:** Problems are sorted into folders based on DSA topics.
