@@ -1,0 +1,24 @@
+# Ignore build files
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore debug / cache files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# VS Code specific
+.vscode/*.db
+.vscode/ipch
+.vscode/.browse.VC.db*
+.vscode/*.suo
+.vscode/*.user
+.vscode/*.cache
+.vscode/*.pdb
+
+# System files
+.DS_Store
+Thumbs.db

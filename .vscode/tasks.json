@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "C++ Build and Run (No exe left, global IO in root)",
+      "type": "shell",
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "g++ -std=c++17 ${file} -o ${fileDirname}\\${fileBasenameNoExtension}_temp.exe && ${fileDirname}\\${fileBasenameNoExtension}_temp.exe < ${workspaceFolder}\\input.txt > ${workspaceFolder}\\output.txt && del ${fileDirname}\\${fileBasenameNoExtension}_temp.exe"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
