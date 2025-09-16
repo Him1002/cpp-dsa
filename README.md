@@ -1,5 +1,8 @@
 #  C++ DSA Practice 
 
+![Language](https://img.shields.io/badge/language-C%2B%2B17-blue)
+![Editor](https://img.shields.io/badge/editor-VS%20Code-blueviolet)    
+
 This repository contains my **Data Structures and Algorithms (DSA)** practice problems implemented in **C++**.  
 I’m using this repo to track progress, experiment with approaches, and build a strong foundation in problem-solving.  
 
@@ -20,12 +23,12 @@ cd cpp-dsa
 
 ### 2️. Open in VS Code (or File → Open Folder).
 
-### 3️ Create input.txt and output.txt in the repo root:
+### 3️. Create input.txt and output.txt in the repo root:
 - input.txt → add your test input here
 
 - output.txt → program output will be written here after each run
 
-### 4️ Run C++ files using VS Code Tasks:
+### 4️. Run C++ files using VS Code Tasks:
 
 - Press Ctrl + Shift + B to compile and run the currently open file.
 
