@@ -29,20 +29,20 @@ The repository is organized to maintain clarity as it grows. The core logic is p
 
 ## ⚙️ Setup & Run
 
-**1️.  Clone the repo:**
+#### 1️.  Clone the repo:
 ```bash
     git clone https://github.com/Him1002/cpp-dsa.git
     cd cpp-dsa
 ```
 
-**2️. Open in VS Code (or File → Open Folder).**
+#### 2️. Open in VS Code (or File → Open Folder).
 
-**3️. Create input.txt and output.txt in the repo root:**
+#### 3️. Create input.txt and output.txt in the repo root:
 -   input.txt → add your test input here
 
 -   output.txt → program output will be written here after each run
 
-**4️. Run C++ files using VS Code Tasks:**
+#### 4️. Run C++ files using VS Code Tasks:
 
 -   Press Ctrl + Shift + B to compile and run the currently open file.
 
