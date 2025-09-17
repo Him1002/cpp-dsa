@@ -1,8 +1,8 @@
 #  C++ DSA Practice 
 
-![Language](https://img.shields.io/badge/language-C%2B%2B17-blue)
-![Editor](https://img.shields.io/badge/editor-VS%20Code-blueviolet)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)     
+![Language](https://img.shields.io/badge/Language-C%2B%2B17-blue)
+![Editor](https://img.shields.io/badge/Editor-VS%20Code-blueviolet)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)     
 
 This repository contains my **Data Structures and Algorithms (DSA)** practice problems implemented in **C++**.  
 I’m using this repo to track progress, experiment with approaches, and build a strong foundation in problem-solving.  
