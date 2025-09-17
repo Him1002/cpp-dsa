@@ -14,9 +14,7 @@ void gcd(int num1, int num2){
         else num2 = num2%num1;
     }
     if(num1==0)cout << num2;
-    
-    else cout << num1;
-    
+    else cout << num1;   
 }
 
 int main(){
@@ -25,3 +23,4 @@ int main(){
     gcd(num1,num2);
     return 0;
 }
+
