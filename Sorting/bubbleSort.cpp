@@ -14,8 +14,10 @@ void bubbleSort(int n, int arr[]){
             }
             
         }
+
         // to check how many times loop iterate if there is zero swap in first iteration
         cout << "run" << endl; 
+        
         if(didSwap == 0){   
             // if no swap in first iteration then no need to iterate ahead.
             break;
