@@ -25,3 +25,11 @@ int main(){
     }
     return 0;
 }
+
+// I/P:
+// 6
+// 13 46 24 52 20 9
+
+/*
+T.C = O(n^2) for all cases
+*/
